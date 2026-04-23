@@ -1,0 +1,16 @@
+[
+  {
+    "id": "ram-mandir",
+    "name": "Ram Mandir",
+    "location": "Ayodhya, Uttar Pradesh",
+    "built": "2024",
+    "description": "Ram Mandir in Ayodhya is one of the most significant Hindu temples in India. It is dedicated to Lord Rama, believed to be born at this sacred site. The temple features Nagara-style architecture with intricate carvings, sandstone pillars, and grand shikharas..."
+  },
+  {
+    "id": "birla-mandir",
+    "name": "Birla Mandir",
+    "location": "Hyderabad",
+    "built": "1976",
+    "description": "Birla Mandir in Hyderabad is built entirely of white marble. It is dedicated to Lord Venkateswara and sits atop a hill offering panoramic city views. The temple combines South Indian, Rajasthani, and Utkala architectural styles..."
+  }
+]
